@@ -1,0 +1,35 @@
+_repo: Laid-up-in-Lavender_38989
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: Lady Betty's indiscretion; The surgeon's guest; The colonel's boy; A
+  good man's dilemma; Bab; Gerald; Joanna's bracelet; The body-birds of court; The
+  vicar's secret; The other Englishman; King Pepin & Sweet Olive; Family portraits.
+gutenberg_issued: '2012-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38989'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+tableOfContents: Lady Betty's indiscretion -- The surgeon's guest -- The colonel's
+  boy -- A good man's dilemma -- Bab -- Gerald -- Joanna's bracelet -- The body-birds
+  of court -- The vicar's secret -- The other Englishman -- King Pepin and Sweet Clive
+  -- Family portraits.
+title: Laid up in Lavender
+url: http://www.gutenberg.org/ebooks/38989
